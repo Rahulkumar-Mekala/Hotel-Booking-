@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body {
+	
+	background: #80ffff;
+	color: black;
+	
+	text-align: center;
+	margin-top: 260px;
+}
+.link{
+     padding: 40px;
+	display: flex;
+	 justify-content: space-around;
+	 text-align: center; 
+	   font-family: serif;
+	   
+	  
+	background:#ff8080;
+	 border-radius: 10px; 
+}
+
+button{
+
+	  text-decoration: none;
+	   text-shadow: black;
+	   text-transform: uppercase;
+	   color: white;
+	   background:rgb(255, 255, 255);
+	   text-shadow: #0d93aa;
+}
+
+	
+	
+	button:hover {
+	
+	color:black;
+	
+}
+
+
+
+
+	

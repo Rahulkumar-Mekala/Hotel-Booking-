@@ -1,0 +1,88 @@
+@charset "UTF-8";
+body {
+	background:  #c0c0c0;
+	color: black;
+	
+	
+	text-align: center;
+}
+.link{
+	display: flex;
+	 justify-content: space-around;
+	 text-align: center; 
+	   font-family: serif;
+	   padding: 20px;
+	background:  rgb(229, 229, 229);
+	 border-radius: 10px; 
+}
+
+a{
+
+	  text-decoration: none;
+	   text-shadow: black;
+	   text-transform: uppercase;
+	   color: blue;
+	   text-shadow: #0d93aa;
+	   
+
+	}
+	.img{
+	display :flex;
+	justify-content: space-around;
+	
+	margin : 30px
+}	
+	img{
+	width: 350px;
+	height: 350px;
+	 
+	}
+	button {
+	
+background:  #c0c0c0;
+	color: black;
+	width:  inherit;
+	
+
+	border: none;
+}
+#Rooms{
+	display: flex;
+	justify-content: space-around;
+	border-radius: 10%;
+	background:  white;
+	padding:  30px;
+	
+	 
+	
+	
+	
+}
+#Delux_Rooms
+{
+	background:  white;
+	padding:  30px;
+	border-radius: 20%;
+	box-shadow: 10px 20px  #c0c0c0;	
+}
+#Premium_Rooms{
+	background:  white;
+	padding:  30px;
+	border-radius: 20%;
+	box-shadow: 10px 20px  #c0c0c0;	
+}
+ 
+ #Royal_Rooms{
+ 	background:  white;
+	padding:  30px;
+	border-radius: 20%;
+	box-shadow: 10px 20px  #c0c0c0;	
+ }
+.Deluxe{
+	 background: blue;
+	 color:  white;
+	 
+}
+
+
+	
